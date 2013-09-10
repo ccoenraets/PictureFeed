@@ -1,0 +1,20 @@
+.scroller {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+    top: 70px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.scroller img {
+    width: 100%;
+}
+
+.topcoat-icon--camera {
+    background: url("images/camera.svg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
