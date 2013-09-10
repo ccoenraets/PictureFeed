@@ -1,0 +1,1 @@
+Sample application that demonstrates how to upload pictures to Node.js from a PhoneGap app.
