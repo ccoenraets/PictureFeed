@@ -6,7 +6,7 @@
         "start": "node server.js"
     },
     "dependencies": {
-        "express": "",
+        "express": "3.*",
         "mongodb": ""
     }
 }
